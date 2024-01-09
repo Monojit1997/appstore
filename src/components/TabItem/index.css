@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.list-button-style {
+  border-bottom: #dfe2e5 solid 3px;
+}
+
+.button {
+  background-color: transparent;
+  margin: 10px;
+  border: none;
+  color: #7b8794;
+  font-size: 20px;
+  font-family: bree-serif;
+  font-weight: bold;
+}
+.active-button-style {
+  color: #2563eb;
+  font-size: 30px;
+}
+.active-list-style {
+  border-bottom: #2563eb solid 3px;
+}
